@@ -1,1 +1,1 @@
-# DS_project
+The goal is to build a classification model that predicts whether a patient needs hospitalization based on their age, temperature level, chronic disease status, breathing condition, and blood oxygen level.
